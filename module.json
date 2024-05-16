@@ -1,0 +1,18 @@
+{
+    "id": "drag-and-drop-folder",
+    "title": "Drag and Drop Folder",
+    "description": "A module for FoundryVTT that allows a user to place an entire folder on a scene.",
+    "authors": [
+      {
+      "name": "dhernandeznater"
+      }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "11"
+    },
+    "scripts": [
+        "scripts/roller.js"
+    ]
+  }
